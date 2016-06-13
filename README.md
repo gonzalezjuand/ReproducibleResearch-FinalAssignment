@@ -27,7 +27,3 @@ RepData_PeerAssessment2
 13. [x] Do the figure(s) have descriptive captions (i.e. there is a description near the figure of what is happening in the figure)?
 14. [x] Does the analysis include description and justification for any data transformations?
 15. [x] As far as you can determine, does it appear that the work submitted for this project is the work of the student who submitted it?
-
-### Published RPubs URL
-
-* [Weather Events Impact Analysis – Public Health and Economic Problems Across the United States]()
